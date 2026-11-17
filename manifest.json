@@ -1,0 +1,270 @@
+{
+  "patch": "01.tpatch",
+  "projectID": "01",
+  "sourceExeSha256": "2d5ab92e825e75d4f86eea224a12e10d1c5400c486394f5e70334cbf0ee499ff",
+  "patchSha256": "5d8a6cbe8bf385ca52c26909ba87a9333cd71cd6a1d355f7be29f03ef7318988",
+  "patchBytes": 8810477,
+  "uncompressedBytes": 10025501,
+  "filesIncluded": 43,
+  "unchangedFilesOmitted": 450,
+  "files": [
+    {
+      "path": "data/bgimage/1.png",
+      "bytes": 214027,
+      "sha256": "507f8861618fc11417b69904c1b887aceacad00170fe9e984647e67f33e022ef",
+      "originalSha256": "70a89db0a264a41eb2aee742a0bdf464aa8c07badc8e5f3b2b02f23e873cf4fc"
+    },
+    {
+      "path": "data/bgimage/1/1.png",
+      "bytes": 1130981,
+      "sha256": "d6bd9e6108e53f9c250fd2c0b5f6e94269d9657c69c4a550504b95e426ba1ca2",
+      "originalSha256": "2562d44b7aaa53a377ef460771f93b38c583f2eaecbe7284b70188c5cb940049"
+    },
+    {
+      "path": "data/bgimage/1/2.png",
+      "bytes": 305542,
+      "sha256": "782a52ab3bb353718a4925977a79c851befc9677b194f966447693ba108c839a",
+      "originalSha256": "ac946e82c02aefeb7c4207c0b58b2fbc2db602ee36316ca8c46cb7cfc171aaa4"
+    },
+    {
+      "path": "data/bgimage/3.png",
+      "bytes": 505959,
+      "sha256": "f29cf557ebafdd487a747e4c60a84dc6d62b69b9512284295e01b433a48ccfe4",
+      "originalSha256": "3c22402aea2e66cd876576da94a17b3c8852e9a3fae12859bbb319389cd16d18"
+    },
+    {
+      "path": "data/bgimage/4.png",
+      "bytes": 320443,
+      "sha256": "6f60f7928e51e58b4b04f0757724c8197066ebd1396ae2956d81c0923a77bb42",
+      "originalSha256": "f8bea98c6ae75ced6632c46a1224e057afaa0002a307f9f22e3c7825a2f457d4"
+    },
+    {
+      "path": "data/bgimage/タイトル/ある日_男の娘に_告白されたら.png",
+      "bytes": 534330,
+      "sha256": "64e23f1b488a6fdd96e91f85afd8a9661e9d34e5f71fed3d6f21f430415eb0df",
+      "originalSha256": "b99e0978c0ff3135fc77f305ed1621b1a3722a8cc37dd66a3c71fcb9d5b9401a"
+    },
+    {
+      "path": "data/bgimage/タイトル/ある日_男の娘に_告白されたら1.png",
+      "bytes": 401049,
+      "sha256": "a330c6a1f290cbca6b3cb1cf39e49a68b4fcf9533d9a1e2dffac289867467ee4",
+      "originalSha256": "78fe0b2c166247080679248f8723004b3e83987377150757f6f45037aa2138f1"
+    },
+    {
+      "path": "data/fgimage/default/1.png",
+      "bytes": 214027,
+      "sha256": "507f8861618fc11417b69904c1b887aceacad00170fe9e984647e67f33e022ef",
+      "originalSha256": "70a89db0a264a41eb2aee742a0bdf464aa8c07badc8e5f3b2b02f23e873cf4fc"
+    },
+    {
+      "path": "data/fgimage/default/3.png",
+      "bytes": 505959,
+      "sha256": "f29cf557ebafdd487a747e4c60a84dc6d62b69b9512284295e01b433a48ccfe4",
+      "originalSha256": "3c22402aea2e66cd876576da94a17b3c8852e9a3fae12859bbb319389cd16d18"
+    },
+    {
+      "path": "data/fgimage/default/4.png",
+      "bytes": 320443,
+      "sha256": "6f60f7928e51e58b4b04f0757724c8197066ebd1396ae2956d81c0923a77bb42",
+      "originalSha256": "f8bea98c6ae75ced6632c46a1224e057afaa0002a307f9f22e3c7825a2f457d4"
+    },
+    {
+      "path": "data/fgimage/default/hazimeni.png",
+      "bytes": 651448,
+      "sha256": "117902a55d68aa5de7b2d4bf5b443d5e37e98954081500352592eefac50d2c3b",
+      "originalSha256": "890aa76505347208be0fc00ad3181fbd6a405a7f9178fbe291384e2edd7de2f4"
+    },
+    {
+      "path": "data/fgimage/default/このゲームには_過激な表現が含まれます。_ご注意ください。.png",
+      "bytes": 6456,
+      "sha256": "8394540398f3a79788c6db05ec1e73c7cd4e1a62ba0f4c250d1f8108d3827b69",
+      "originalSha256": "40acf9569ce38363d46933292bfbcc4015e171bb58f3e4a12666d1e977a153a0"
+    },
+    {
+      "path": "data/fgimage/default/第16回_定期開催_映画_(1).png",
+      "bytes": 364592,
+      "sha256": "68b44f4cdf0f5c6541ee784a09cc3235d855b863bd53fcc540275b7c84e67d99",
+      "originalSha256": "f25dbe2060771e15756d41a29ff14a058449d00c42de91e5ec3687941a31152e"
+    },
+    {
+      "path": "data/image/1.png",
+      "bytes": 214027,
+      "sha256": "507f8861618fc11417b69904c1b887aceacad00170fe9e984647e67f33e022ef",
+      "originalSha256": "70a89db0a264a41eb2aee742a0bdf464aa8c07badc8e5f3b2b02f23e873cf4fc"
+    },
+    {
+      "path": "data/image/2.png",
+      "bytes": 305542,
+      "sha256": "782a52ab3bb353718a4925977a79c851befc9677b194f966447693ba108c839a",
+      "originalSha256": "ac946e82c02aefeb7c4207c0b58b2fbc2db602ee36316ca8c46cb7cfc171aaa4"
+    },
+    {
+      "path": "data/image/20.png",
+      "bytes": 305542,
+      "sha256": "782a52ab3bb353718a4925977a79c851befc9677b194f966447693ba108c839a",
+      "originalSha256": "ac946e82c02aefeb7c4207c0b58b2fbc2db602ee36316ca8c46cb7cfc171aaa4"
+    },
+    {
+      "path": "data/image/3.png",
+      "bytes": 505959,
+      "sha256": "f29cf557ebafdd487a747e4c60a84dc6d62b69b9512284295e01b433a48ccfe4",
+      "originalSha256": "3c22402aea2e66cd876576da94a17b3c8852e9a3fae12859bbb319389cd16d18"
+    },
+    {
+      "path": "data/image/4.png",
+      "bytes": 320443,
+      "sha256": "6f60f7928e51e58b4b04f0757724c8197066ebd1396ae2956d81c0923a77bb42",
+      "originalSha256": "f8bea98c6ae75ced6632c46a1224e057afaa0002a307f9f22e3c7825a2f457d4"
+    },
+    {
+      "path": "data/image/hazimeni.png",
+      "bytes": 651448,
+      "sha256": "117902a55d68aa5de7b2d4bf5b443d5e37e98954081500352592eefac50d2c3b",
+      "originalSha256": "890aa76505347208be0fc00ad3181fbd6a405a7f9178fbe291384e2edd7de2f4"
+    },
+    {
+      "path": "data/image/title/button_cg.gif",
+      "bytes": 5015,
+      "sha256": "03ac48a89036199d2ea5c7c932d7858749a2cf9ff6d236f84df6bf7ef1fe894d",
+      "originalSha256": "e379bfefea0e4ad01ef1a94c5952ecf2b9f46c6bb2fb2e738f15fadc232698f4"
+    },
+    {
+      "path": "data/image/title/button_config.gif",
+      "bytes": 4751,
+      "sha256": "65ca22c611370ff5d094b4d520200f39ac967dcfbe3a9c45d747a51fa295c3e9",
+      "originalSha256": "95bd8877528e293b367a7cae1af0136dc0d370da6f2204961f73a683ee634940"
+    },
+    {
+      "path": "data/image/title/button_load.gif",
+      "bytes": 5435,
+      "sha256": "a3e0d8bb6c41c898d0335d028309a4b0cfe9893992401cc36a695677b33e35a7",
+      "originalSha256": "11bf2ea503734dea86ac6624627fd81df2a4aa688fe4538a0f04303c90c9d7bb"
+    },
+    {
+      "path": "data/image/title/button_replay.gif",
+      "bytes": 5181,
+      "sha256": "976d37fcac91ae96eb890816545ffc868c74fb330a658766276d18b878beb7fb",
+      "originalSha256": "2daf329f3026ff2fbc48779ca6492f767caca5ba6d170e472739766a34daaced"
+    },
+    {
+      "path": "data/image/title/button_start.gif",
+      "bytes": 5278,
+      "sha256": "239e4d40e5871eca3b3e96ad5c0c1f83ee79eecc17f53def601343db29599a58",
+      "originalSha256": "5553b71019de5d31f38f2ec2f4331590a59912287ec8f8af85496b2e11af33be"
+    },
+    {
+      "path": "data/image/このゲームには_過激な表現が含まれます。_ご注意ください。.png",
+      "bytes": 6456,
+      "sha256": "8394540398f3a79788c6db05ec1e73c7cd4e1a62ba0f4c250d1f8108d3827b69",
+      "originalSha256": "40acf9569ce38363d46933292bfbcc4015e171bb58f3e4a12666d1e977a153a0"
+    },
+    {
+      "path": "data/others/ZCOOL.ttf",
+      "bytes": 2144072,
+      "sha256": "e7f52420861444677dc8e1c4ad8ae96182277ffe351b9e08d198f967df0bb158",
+      "originalSha256": null
+    },
+    {
+      "path": "data/others/cn-font.css",
+      "bytes": 268,
+      "sha256": "5c56175713cbbd86bc3b483cc7ad2f2fd2920ea32f1a1aa4d2f3f67cb2bbc1ec",
+      "originalSha256": null
+    },
+    {
+      "path": "data/scenario/B12.ks",
+      "bytes": 4861,
+      "sha256": "34b67c0b9f15942b533986e5dcd50a3db2124adc23af26669c570e615e76e408",
+      "originalSha256": "ca2d90826909f8b8560d1bbb990248612daf1c340aa89b7f298c15f5e626eed6"
+    },
+    {
+      "path": "data/scenario/B13.ks",
+      "bytes": 6947,
+      "sha256": "2ef772117bd0ef0d5ec679a55ecfd88a5ad78d613c6fa75c569bf6f9c770b391",
+      "originalSha256": "8e51971c0af77f7d0aa700770971813fa590bd5988b8055668e82b6ce5c6e240"
+    },
+    {
+      "path": "data/scenario/BT11.ks",
+      "bytes": 5780,
+      "sha256": "f12c7d4a2a631e056ea5a245f2eef45f91bf3de20d78cff522b8b6563d03ae95",
+      "originalSha256": "109475b92cf1866e34ecb3dffde6e36d954c2551f77b750239158341aecbd17e"
+    },
+    {
+      "path": "data/scenario/_preview.ks",
+      "bytes": 9685,
+      "sha256": "1944adbbb9d054207e840e3df911543ac88020f1dbebbc9322fe75eae50c03aa",
+      "originalSha256": "553f4238abe47bb5f67f6a01f0c6045ecc2e95f5a8f7fe74f8534cb782c88e98"
+    },
+    {
+      "path": "data/scenario/copy_of_scene1.ks",
+      "bytes": 573,
+      "sha256": "e58349f46bfae4d2a2985da774c1bdcbf2407e9eb726374e977adde8b99a7233",
+      "originalSha256": "a3a6957007bd2ddf548a189208ca20d93e085bf7b30f454d679a809b5d60dcfe"
+    },
+    {
+      "path": "data/scenario/first.ks",
+      "bytes": 636,
+      "sha256": "855424a6415213aa208b900982f25f27529ebe3ae052fc84c20f565fe4567238",
+      "originalSha256": "f4f878a629b937da142c1ccaa7fb9dc265f5eda30597a2f1a009fc7e63d8dea9"
+    },
+    {
+      "path": "data/scenario/kaiinuEND.ks",
+      "bytes": 3865,
+      "sha256": "342ed61b3f71b600a2be4a5db33b181f4f22b754df04670be9aee701cded416c",
+      "originalSha256": "05e9dc0e5da090a81280b7bfd7015877bfbcb9c105a62ef579803baea303eb64"
+    },
+    {
+      "path": "data/scenario/scene1.ks",
+      "bytes": 3406,
+      "sha256": "3688d5b8a59d304cc6bf994dee89f88092a9cfd16964ae33fd137fa4a6e666bd",
+      "originalSha256": "c1516f6cf9b7ff9f25fcf07e64beb17f05e83364698760ee1e1d6b7a2eb96d0e"
+    },
+    {
+      "path": "data/scenario/scene2.ks",
+      "bytes": 9055,
+      "sha256": "1bd8ea1fa427ed996bc08cc88acb974367d57e23eec5dbecfabd1f64a89d6a92",
+      "originalSha256": "cefca57c1158b2e10efa8606871d7a1af5102ae1f7d3bf6759989e88cfa19766"
+    },
+    {
+      "path": "data/scenario/sinzyuuend.ks",
+      "bytes": 3256,
+      "sha256": "0c952fabd9cc6f0f6666309f80ba4def55c615e7211d12a6fad0773b74f21e12",
+      "originalSha256": "1c574fd5603322800951855695f67625595b233ab42549149cd87d432b874035"
+    },
+    {
+      "path": "data/scenario/tend.ks",
+      "bytes": 4765,
+      "sha256": "6eade3cd9075f5539d708120a17c4be21c7b3eb8a3d35d6bb679b15861c85a8f",
+      "originalSha256": "dec3f2a661db171391f9700847d45f4cb3b300a18d1ea0fc7e4080a491ca20e8"
+    },
+    {
+      "path": "data/scenario/title_screen.ks",
+      "bytes": 762,
+      "sha256": "28fb3198ce1fb7f93dc2293923be97077a6233a9a81afa902e787a68f3a18655",
+      "originalSha256": "1410768b97b45eb550c2bc69fc20bc57840529a543dd95806be03b21d9728c93"
+    },
+    {
+      "path": "data/scenario/uragiriend.ks",
+      "bytes": 9685,
+      "sha256": "1944adbbb9d054207e840e3df911543ac88020f1dbebbc9322fe75eae50c03aa",
+      "originalSha256": "3ff81acd0234596ff8597835d6f6aaf39782286445cc9caa21a7d7ad59e073e2"
+    },
+    {
+      "path": "data/scenario/zisatuend.ks",
+      "bytes": 4574,
+      "sha256": "470f19e858608be7f05ab4667ca6f4392fdbfee24170d3932b43cb1caf0e3c99",
+      "originalSha256": "32974889b3ab0d06288979984598d9ae26140915d7424e7021693458dd1cfd02"
+    },
+    {
+      "path": "data/system/Config.tjs",
+      "bytes": 1762,
+      "sha256": "9b94a0318687fe4a9a5789d4c77c8baac2173532ea1fcb23bcb83153d54cf0e8",
+      "originalSha256": "b295ac934eb6ef909bfc52940a83ccbde0137d288b12a2ee77ae1feb16ee93da"
+    },
+    {
+      "path": "tyrano/lang.js",
+      "bytes": 1216,
+      "sha256": "9d850614b35aa2d2a0b45e289729bc62dec54194bbad30082f490f7b365a0b77",
+      "originalSha256": "ab1d122c3b294e4a1c9498085631e42354f6099474de2b62f94999244e56f96d"
+    }
+  ]
+}
